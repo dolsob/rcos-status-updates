@@ -5,11 +5,15 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
+Last week I got everything setup on my computer and I can run the code locally on my computer.
+
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
 > Examples: New Bugs to be fixed, Design choices
+
+This week I will get familiar JavaScript and understand the code already written for the project.
 
 ## Anything Blocking?
 
